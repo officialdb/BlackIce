@@ -130,3 +130,4 @@ echo -e "To complete the setup:"
 echo -e " 1. Restart your terminal or run: ${CYAN}source ~/.zshrc${RESET}"
 echo -e " 2. If the Dynamic Island or Blur does not appear immediately, log out and back in."
 echo -e " 3. Backups saved at: ${YELLOW}$BACKUP_DIR${RESET}\n"
+

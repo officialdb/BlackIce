@@ -62,7 +62,7 @@
 Clone the repository and run the automated installer:
 
 ```bash
-git clone https://github.com/your-username/BlackIce.git
+git clone https://github.com/officialdb/BlackIce.git
 cd BlackIce
 chmod +x install.sh
 ./install.sh

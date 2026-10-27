@@ -39,3 +39,4 @@ if command -v gnome-extensions >/dev/null 2>&1; then
 fi
 
 echo -e "\n${GREEN}[✓] BlackIce configuration reverted. Log out and back in to reset full desktop state.${RESET}\n"
+

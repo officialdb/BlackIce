@@ -26,3 +26,4 @@ alias myip='curl -s https://ifconfig.me && echo'
 if command -v starship >/dev/null 2>&1; then
     eval "$(starship init zsh)"
 fi
+
