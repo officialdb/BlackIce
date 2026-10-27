@@ -22,7 +22,7 @@
 **BlackIce** transforms Kali Linux into a hyper-polished, fluid, frosted glass workstation inspired by macOS design and tactical cyber security workflows. It integrates an intelligent auto-hiding **Dynamic Island**, a floating **Frosted Glass Dock**, a curated **3-Page Tactical Pentest App Grid**, and a high-contrast **Obsidian Terminal Suite**.
 
 <p align="center">
-  <img src="assets/dynamic_island_tray.png" alt="BlackIce Dynamic Island Tray" width="49%" style="border-radius: 8px;" />
+  <img src="assets/blackice_launchpad.png" alt="BlackIce Frosted Launchpad & Pentest Grid" width="49%" style="border-radius: 8px;" />
   <img src="assets/obsidian_terminal.png" alt="BlackIce Obsidian Terminal" width="49%" style="border-radius: 8px;" />
 </p>
 
