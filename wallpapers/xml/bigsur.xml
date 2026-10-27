@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<background>
+  <starttime>
+    <year>2026</year>
+    <month>1</month>
+    <day>1</day>
+    <hour>0</hour>
+    <minute>0</minute>
+    <second>0</second>
+  </starttime>
+  <static>
+    <duration>9000.0</duration>
+    <file>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/BigSur/Big macOS Sur-8.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>1800.0</duration>
+    <from>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/BigSur/Big macOS Sur-8.jpg</from>
+    <to>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/BigSur/Big macOS Sur-7.jpg</to>
+  </transition>
+  <static>
+    <duration>9000.0</duration>
+    <file>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/BigSur/Big macOS Sur-7.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>1800.0</duration>
+    <from>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/BigSur/Big macOS Sur-7.jpg</from>
+    <to>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/BigSur/Big macOS Sur-1.jpg</to>
+  </transition>
+  <static>
+    <duration>9000.0</duration>
+    <file>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/BigSur/Big macOS Sur-1.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>1800.0</duration>
+    <from>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/BigSur/Big macOS Sur-1.jpg</from>
+    <to>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/BigSur/Big macOS Sur-2.jpg</to>
+  </transition>
+  <static>
+    <duration>9000.0</duration>
+    <file>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/BigSur/Big macOS Sur-2.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>1800.0</duration>
+    <from>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/BigSur/Big macOS Sur-2.jpg</from>
+    <to>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/BigSur/Big macOS Sur-3.jpg</to>
+  </transition>
+  <static>
+    <duration>9000.0</duration>
+    <file>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/BigSur/Big macOS Sur-3.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>1800.0</duration>
+    <from>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/BigSur/Big macOS Sur-3.jpg</from>
+    <to>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/BigSur/Big macOS Sur-4.jpg</to>
+  </transition>
+  <static>
+    <duration>9000.0</duration>
+    <file>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/BigSur/Big macOS Sur-4.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>1800.0</duration>
+    <from>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/BigSur/Big macOS Sur-4.jpg</from>
+    <to>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/BigSur/Big macOS Sur-5.jpg</to>
+  </transition>
+  <static>
+    <duration>9000.0</duration>
+    <file>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/BigSur/Big macOS Sur-5.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>1800.0</duration>
+    <from>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/BigSur/Big macOS Sur-5.jpg</from>
+    <to>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/BigSur/Big macOS Sur-6.jpg</to>
+  </transition>
+  <static>
+    <duration>9000.0</duration>
+    <file>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/BigSur/Big macOS Sur-6.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>1800.0</duration>
+    <from>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/BigSur/Big macOS Sur-6.jpg</from>
+    <to>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/BigSur/Big macOS Sur-8.jpg</to>
+  </transition>
+</background>

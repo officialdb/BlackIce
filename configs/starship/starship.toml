@@ -1,0 +1,111 @@
+# Starship configuration — Hacker Glass theme
+# Custom crafted for Kali Linux & Obsidian Glass Aesthetic
+
+add_newline = true
+
+format = """
+$os\
+$directory\
+$git_branch\
+$git_status\
+$package\
+$python\
+$nodejs\
+$rust\
+$golang\
+$docker_context\
+$cmd_duration\
+$line_break\
+$character"""
+
+# Prompt character
+[character]
+success_symbol = "[❯](bold #7aa2ff)"
+error_symbol = "[❯](bold #f7768e)"
+vimcmd_symbol = "[❮](bold #9ece6a)"
+
+# Operating System Badge
+[os]
+format = "[$symbol]($style) "
+style = "bold #7aa2ff"
+disabled = false
+
+[os.symbols]
+Kali = " "
+Debian = " "
+Linux = " "
+
+# Current Working Directory
+[directory]
+format = "[$path]($style)[$read_only]($read_only_style) "
+style = "bold #7dcfff"
+read_only = " 󰌾"
+read_only_style = "bold #f7768e"
+truncation_length = 4
+truncate_to_repo = true
+home_symbol = "~"
+
+# Git Integration
+[git_branch]
+format = "[$symbol$branch]($style) "
+symbol = " "
+style = "bold #bb9af7"
+
+[git_status]
+format = "([$all_status$ahead_behind]($style) )"
+style = "bold #e0af68"
+conflicted = "󰞇 "
+ahead = "⇡${count}"
+behind = "⇣${count}"
+diverged = "⇕⇡${ahead_count}⇣${behind_count}"
+untracked = "?${count} "
+stashed = "󰀼 "
+modified = "!${count} "
+staged = "+${count} "
+renamed = "»${count} "
+deleted = "✘${count} "
+
+# Command Duration
+[cmd_duration]
+min_time = 2_000
+format = "[⏱ $duration]($style) "
+style = "dimmed #e0af68"
+
+# Development Environments
+[python]
+format = "via [${symbol}${pyenv_prefix}(${version} )(\\($virtualenv\\))]($style) "
+symbol = "🐍 "
+style = "bold #e0af68"
+
+[nodejs]
+format = "via [${symbol}(${version} )]($style) "
+symbol = "󰎙 "
+style = "bold #9ece6a"
+
+[rust]
+format = "via [${symbol}(${version} )]($style) "
+symbol = "󱘗 "
+style = "bold #f7768e"
+
+[golang]
+format = "via [${symbol}(${version} )]($style) "
+symbol = "󰟓 "
+style = "bold #7dcfff"
+
+[docker_context]
+format = "via [${symbol}$context]($style) "
+symbol = "󰡨 "
+style = "bold #7aa2ff"
+
+[package]
+disabled = true
+
+[memory_usage]
+disabled = true
+
+[aws]
+disabled = true
+
+[gcloud]
+disabled = true
+

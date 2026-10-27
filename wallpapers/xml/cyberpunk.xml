@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<background>
+  <starttime>
+    <year>2026</year>
+    <month>1</month>
+    <day>1</day>
+    <hour>0</hour>
+    <minute>0</minute>
+    <second>0</second>
+  </starttime>
+  <static>
+    <duration>9000.0</duration>
+    <file>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/cyberpunk-01/cyberpunk-01-14.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>1800.0</duration>
+    <from>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/cyberpunk-01/cyberpunk-01-14.jpg</from>
+    <to>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/cyberpunk-01/cyberpunk-01-0.jpg</to>
+  </transition>
+  <static>
+    <duration>9000.0</duration>
+    <file>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/cyberpunk-01/cyberpunk-01-0.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>1800.0</duration>
+    <from>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/cyberpunk-01/cyberpunk-01-0.jpg</from>
+    <to>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/cyberpunk-01/cyberpunk-01-4.jpg</to>
+  </transition>
+  <static>
+    <duration>9000.0</duration>
+    <file>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/cyberpunk-01/cyberpunk-01-4.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>1800.0</duration>
+    <from>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/cyberpunk-01/cyberpunk-01-4.jpg</from>
+    <to>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/cyberpunk-01/cyberpunk-01-6.jpg</to>
+  </transition>
+  <static>
+    <duration>9000.0</duration>
+    <file>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/cyberpunk-01/cyberpunk-01-6.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>1800.0</duration>
+    <from>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/cyberpunk-01/cyberpunk-01-6.jpg</from>
+    <to>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/cyberpunk-01/cyberpunk-01-8.jpg</to>
+  </transition>
+  <static>
+    <duration>9000.0</duration>
+    <file>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/cyberpunk-01/cyberpunk-01-8.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>1800.0</duration>
+    <from>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/cyberpunk-01/cyberpunk-01-8.jpg</from>
+    <to>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/cyberpunk-01/cyberpunk-01-10.jpg</to>
+  </transition>
+  <static>
+    <duration>9000.0</duration>
+    <file>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/cyberpunk-01/cyberpunk-01-10.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>1800.0</duration>
+    <from>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/cyberpunk-01/cyberpunk-01-10.jpg</from>
+    <to>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/cyberpunk-01/cyberpunk-01-12.jpg</to>
+  </transition>
+  <static>
+    <duration>9000.0</duration>
+    <file>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/cyberpunk-01/cyberpunk-01-12.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>1800.0</duration>
+    <from>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/cyberpunk-01/cyberpunk-01-12.jpg</from>
+    <to>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/cyberpunk-01/cyberpunk-01-13.jpg</to>
+  </transition>
+  <static>
+    <duration>9000.0</duration>
+    <file>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/cyberpunk-01/cyberpunk-01-13.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>1800.0</duration>
+    <from>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/cyberpunk-01/cyberpunk-01-13.jpg</from>
+    <to>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/cyberpunk-01/cyberpunk-01-14.jpg</to>
+  </transition>
+</background>

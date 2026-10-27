@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<background>
+  <starttime>
+    <year>2026</year>
+    <month>1</month>
+    <day>1</day>
+    <hour>0</hour>
+    <minute>0</minute>
+    <second>0</second>
+  </starttime>
+  <static>
+    <duration>9000.0</duration>
+    <file>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/Monterey/Monterey08.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>1800.0</duration>
+    <from>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/Monterey/Monterey08.jpg</from>
+    <to>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/Monterey/Monterey07.jpg</to>
+  </transition>
+  <static>
+    <duration>9000.0</duration>
+    <file>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/Monterey/Monterey07.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>1800.0</duration>
+    <from>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/Monterey/Monterey07.jpg</from>
+    <to>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/Monterey/Monterey01.jpg</to>
+  </transition>
+  <static>
+    <duration>9000.0</duration>
+    <file>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/Monterey/Monterey01.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>1800.0</duration>
+    <from>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/Monterey/Monterey01.jpg</from>
+    <to>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/Monterey/Monterey02.jpg</to>
+  </transition>
+  <static>
+    <duration>9000.0</duration>
+    <file>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/Monterey/Monterey02.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>1800.0</duration>
+    <from>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/Monterey/Monterey02.jpg</from>
+    <to>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/Monterey/Monterey03.jpg</to>
+  </transition>
+  <static>
+    <duration>9000.0</duration>
+    <file>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/Monterey/Monterey03.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>1800.0</duration>
+    <from>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/Monterey/Monterey03.jpg</from>
+    <to>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/Monterey/Monterey04.jpg</to>
+  </transition>
+  <static>
+    <duration>9000.0</duration>
+    <file>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/Monterey/Monterey04.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>1800.0</duration>
+    <from>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/Monterey/Monterey04.jpg</from>
+    <to>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/Monterey/Monterey05.jpg</to>
+  </transition>
+  <static>
+    <duration>9000.0</duration>
+    <file>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/Monterey/Monterey05.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>1800.0</duration>
+    <from>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/Monterey/Monterey05.jpg</from>
+    <to>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/Monterey/Monterey06.jpg</to>
+  </transition>
+  <static>
+    <duration>9000.0</duration>
+    <file>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/Monterey/Monterey06.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>1800.0</duration>
+    <from>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/Monterey/Monterey06.jpg</from>
+    <to>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/Monterey/Monterey08.jpg</to>
+  </transition>
+</background>

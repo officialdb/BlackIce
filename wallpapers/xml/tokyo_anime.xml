@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<background>
+  <starttime>
+    <year>2026</year>
+    <month>1</month>
+    <day>1</day>
+    <hour>0</hour>
+    <minute>0</minute>
+    <second>0</second>
+  </starttime>
+  <static>
+    <duration>41400.0</duration>
+    <file>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/TokyoStreet/TokyoStreet-2.png</file>
+  </static>
+  <transition type="overlay">
+    <duration>1800.0</duration>
+    <from>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/TokyoStreet/TokyoStreet-2.png</from>
+    <to>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/TokyoStreet/TokyoStreet-1.png</to>
+  </transition>
+  <static>
+    <duration>41400.0</duration>
+    <file>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/TokyoStreet/TokyoStreet-1.png</file>
+  </static>
+  <transition type="overlay">
+    <duration>1800.0</duration>
+    <from>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/TokyoStreet/TokyoStreet-1.png</from>
+    <to>/home/official/.local/share/backgrounds/dynamic-wallpapers/packs/TokyoStreet/TokyoStreet-2.png</to>
+  </transition>
+</background>

@@ -1,0 +1,68 @@
+{
+  "accent": "#7aa2ff",
+  "tabOrder": [
+    "notifications",
+    "media",
+    "system",
+    "wallpaper",
+    "weather",
+    "calendar",
+    "studio",
+    "shelf"
+  ],
+  "tabs": {
+    "media": true,
+    "system": true,
+    "weather": true,
+    "studio": true,
+    "calendar": true,
+    "notifications": true,
+    "shelf": true,
+    "wallpaper": true
+  },
+  "features": {
+    "showBattery": true,
+    "showPrivacy": true,
+    "pillMarquee": true,
+    "weatherAutoRefresh": true,
+    "calendarSync": true,
+    "notifPeek": true,
+    "showPowerButton": true,
+    "hidePanel": false,
+    "reclaimSpace": false,
+    "mirrorTray": true,
+    "topScroll": false,
+    "autoHideIdle": true
+  },
+  "wallpaper": {
+    "folder": "__HOME__/.local/share/backgrounds/dynamic-wallpapers/gallery",
+    "intervalSec": 600,
+    "order": "sequential",
+    "rotationEnabled": false,
+    "autoLandscape": false,
+    "enhance": true,
+    "enhanceMode": "auto",
+    "enhanceSharpen": 0.6,
+    "enhanceContrast": 1.06,
+    "enhanceSaturation": 1.08,
+    "pauseOnBattery": true,
+    "pauseOnFullscreen": true
+  },
+  "blur": {
+    "enabled": true,
+    "preset": "liquid",
+    "collapsedRadius": 18,
+    "expandedRadius": 36
+  },
+  "trayMirror": {},
+  "trayMirrorItems": [
+    {
+      "id": "sa:appindicator-:1.83@/StatusNotifierItem",
+      "label": "CopyQ"
+    },
+    {
+      "id": "sa:appindicator-:1.8511@/org/blueman/sni",
+      "label": "blueman"
+    }
+  ]
+}
