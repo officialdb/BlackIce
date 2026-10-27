@@ -15,7 +15,16 @@
 /_____/_/\__,_/\____/_/|_/___/\___/\___/     
 ```
 
+<p align="center">
+  <img src="assets/blackice_desktop_hero.jpg" alt="BlackIce Desktop Showcase" width="100%" style="border-radius: 8px;" />
+</p>
+
 **BlackIce** transforms Kali Linux into a hyper-polished, fluid, frosted glass workstation inspired by macOS design and tactical cyber security workflows. It integrates an intelligent auto-hiding **Dynamic Island**, a floating **Frosted Glass Dock**, a curated **3-Page Tactical Pentest App Grid**, and a high-contrast **Obsidian Terminal Suite**.
+
+<p align="center">
+  <img src="assets/dynamic_island_tray.png" alt="BlackIce Dynamic Island Tray" width="49%" style="border-radius: 8px;" />
+  <img src="assets/obsidian_terminal.png" alt="BlackIce Obsidian Terminal" width="49%" style="border-radius: 8px;" />
+</p>
 
 ---
 
@@ -91,6 +100,7 @@ BlackIce/
 ├── uninstall.sh                # Revert script
 ├── README.md                   # Documentation & showcase
 ├── LICENSE                     # MIT License
+├── assets/                     # Showcase screenshots & media
 ├── configs/
 │   ├── starship/               # Starship CLI configuration (starship.toml)
 │   ├── fastfetch/              # Fastfetch system info banner profile
